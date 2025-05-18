@@ -1,0 +1,57 @@
+ header 
+ {
+  background-color: lightblue;
+  color: white;
+  padding: 50px;
+  text-align: center;
+  border-radius: 40pc;
+ }
+ footer 
+ {
+  background-color: green;
+  color: white;
+  padding: 50px;
+  text-align: center;
+  border-radius: 0 40px 0 40px;
+ }
+ li 
+ {
+  list-style: none;
+ }
+ ul li
+ {
+   display: flex;
+   justify-content: space-between;
+ }
+ .box
+ {
+  background-color: red;
+  width: 300px;
+  height: 300px;
+ }
+ img
+ {
+  width: 15%;
+ }
+ nav 
+ {
+  background-color: red;
+  padding: 10px;
+ }
+ nav a 
+ {
+  color: white;
+  text-decoration: none;
+ }
+ nav ul 
+ {
+  display: flex;
+ }
+ .product
+ {
+  width: 50px;
+ }
+ .hide 
+ {
+  display: none;
+ }
